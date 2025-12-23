@@ -1,0 +1,9 @@
+{
+  "name": "PCFH Wealth Manager v3.0",
+  "version": "3.0.0",
+  "description": "Unified wealth management system for Primo Couto Family Holdings (SFO), featuring Angolan accounting standards (PGC), payroll IRT/SS calculations, and advanced compliance reporting (Lei 22/11).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
